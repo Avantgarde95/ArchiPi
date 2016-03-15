@@ -1,3 +1,5 @@
+[![Coverage Status](https://coveralls.io/repos/github/Avantgarde95/ArchiPi/badge.svg?branch=master)](https://coveralls.io/github/Avantgarde95/ArchiPi?branch=master)
+
 # ArchiPi
 - Implementation of Archimedes' polygonal algorithm for approximating pi.
 
