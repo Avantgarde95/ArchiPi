@@ -11,8 +11,8 @@
 ### Screenshots
 - Input : 7
 
-![Screenshot_7](http://i65.tinypic.com/33uxvn5.png)
+![Screenshot7](https://github.com/Avantgarde95/ArchiPi/blob/master/Screenshot7.png)
 
 - Input : 300
 
-![Screenshot_300](http://i68.tinypic.com/339of1l.png)
+![Screenshot300](https://github.com/Avantgarde95/ArchiPi/blob/master/Screenshot300.png)
